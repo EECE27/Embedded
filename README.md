@@ -5,7 +5,7 @@
 > For the Best Experience, consider using VS-Code when viewing this Repo.\
 Especially with the Better Comments Extension for Lecture Notes.
 
-I will edit this later with useful link and info about the repo and the course.
+## Description
 
 for now this is a repo for Cairo University Faculty of Engnineering Students.
 Specifically Electronics and Electrical Communications engineering students of the class of 2027
