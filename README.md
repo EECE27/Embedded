@@ -1,3 +1,10 @@
+# ELC2080
+### Embedded Systems: EECE 2027
+
+> [!IMPORTANT]  
+> For the Best Experience, consider using VS-Code when viewing this Repo.\
+Especially with the Better Comments Extension for Lecture Notes.
+
 I will edit this later with useful link and info about the repo and the course.
 
 for now this is a repo for Cairo University Faculty of Engnineering Students.
