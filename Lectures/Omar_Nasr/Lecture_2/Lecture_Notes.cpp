@@ -48,6 +48,11 @@ class stuff
         - They are fixed size.
 
     - visualalgo.net (Website for algoritms)
+
+
+
+    todo: Implement Dynamic Array
+    todo: Implement Stacks and Queues using Dynamic Arrays
 */
 
 
