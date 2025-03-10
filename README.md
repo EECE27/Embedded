@@ -10,10 +10,6 @@ Especially with the Better Comments Extension for Lecture Notes.
 This is a repo for Cairo University Faculty of Engnineering Students.
 Specifically Electronics and Electrical Communications Engineering students of the class of 2027, covering all topics taught in ELC2080: Embedded Systems.
 
-## Useful Links
-
-### [Course Google Drive:](https://drive.google.com/drive/u/2/folders/1Lko9hl2pmfAX_H8ZaLeqe-9QvAH7V-fN) Gathered by material team, contains sheets and their answers and any other material concerning the course or the projects.
-
 ## External Resources
 
 ### [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) 
