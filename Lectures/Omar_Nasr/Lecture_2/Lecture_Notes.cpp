@@ -41,7 +41,7 @@ class stuff
     public:
     stuff(); // -> Constructor
     ~stuff(); // -> destructor
-}
+};
 
 /*
     - Arrays are Cache Friendly
@@ -54,6 +54,3 @@ class stuff
     todo: Implement Dynamic Array
     todo: Implement Stacks and Queues using Dynamic Arrays
 */
-
-
-
