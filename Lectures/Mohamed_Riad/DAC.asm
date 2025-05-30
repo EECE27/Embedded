@@ -51,6 +51,31 @@ LOOP *
 
     LOOP *
 
+; Similarly to ADC if the CPU is 16 bit just change AL to AX and LODSB to LODSW
+
+*   OUT DX, AX
+    LODSW
+
+    MOV BL, M
+**  DEC BL
+    JNZ **
+
+    LOOP *
+
+; Original Version with 16 bit
+
+    MOV CX, Count    ; Move value of Count to CX register
+ *  OUT DX, AX       ; Start Conversion signal
+
+    MOV AX, [SI]     ; SI is a pointer, move the data its poiting at to register AL
+    INC SI           ; Increment SI to point at the next number in the array
+
+;   Add Delay here for "Ts" sampling Time
+
+    DEC CX           ; Decrement Loop Iterator
+    JNZ *            ; Loop if the counter hasn't finished yet
+
+
 
 
 
